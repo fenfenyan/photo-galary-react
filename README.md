@@ -1,2 +1,2 @@
 # photo-galary-react
-the  first photo gallery
+效果可见： https://fenfenyan.github.io/photo-galary-react/
